@@ -1,0 +1,6 @@
+com\discordmtg\CardDisplayer.class
+com\discordmtg\ResizeListener.class
+com\discordmtg\BasicView.class
+com\discordmtg\DiscordMTG.class
+com\discordmtg\ScreenScale.class
+com\discordmtg\CardGrabber.class
